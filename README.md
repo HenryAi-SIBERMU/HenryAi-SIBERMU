@@ -25,6 +25,6 @@
 
 <a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
-Personal Contact  **0851-5507-5530**
+### Personal Contact :   **0851-5507-5530**
 
 
