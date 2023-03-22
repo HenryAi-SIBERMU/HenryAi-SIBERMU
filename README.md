@@ -23,7 +23,7 @@
 <a href="https://dribbble.com/duniahenry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="duniahenry" height="30" width="40" /></a>
 </p>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="mailto:henryai@sibermu.ac.id">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 ### Personal Contact :   **0851-5507-5530**
 
