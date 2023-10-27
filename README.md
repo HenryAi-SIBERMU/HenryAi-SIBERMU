@@ -4,7 +4,7 @@
 <p align="center"> <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryai-sibermu&label=Profile%20views&color=0e75b6&style=flat" alt="henryai-sibermu" /> </p>
 
-- I’m currently working on [SIBERMU university](https://sibermu.ac.id/) As Immersive Tech and Enterprise Resource Planner System Engineer
+- I’m currently working on [SIBERMU university](https://sibermu.ac.id/) As Immersive engineer, Enterprise Resource Planner engineer, Editorial board and System engineer on jurnalsibermu.com
 - I’m currently learning **Python, ML/DL, IoT & Edge Computing**
 
 <h2> 💻  Languages and Tools</h2>
